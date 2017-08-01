@@ -220,12 +220,16 @@ color:rgba(255, 255, 255, 1);
 p.left-aligned {
 text-align: left !important;
 color:rgba(255, 255, 255, 1);
-font-size: 1.5em;
+font-size: 1.4em;
 line-height: 1.7em;
 }
 
 span.bold {
 font-family: AvenirBold;
+}
+
+.row {
+width: 100%;
 }
 
 /* MOBILE */
