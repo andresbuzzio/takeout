@@ -205,7 +205,14 @@ padding-left: 1px;
 p.social {
 text-align:center;
 color:rgba(255, 255, 255, 1);
-font-size: 1.5em;
+font-size: 1.4em;
+}
+
+p.left-aligned {
+text-align: left !important;
+color:rgba(255, 255, 255, 1);
+font-size: 1.2em;
+line-height: 1.7em;
 }
 
 p.left-aligned a {
@@ -215,13 +222,6 @@ text-decoration: none;
 
 p.left-aligned a:hover {
 color:rgba(255, 255, 255, 1);
-}
-
-p.left-aligned {
-text-align: left !important;
-color:rgba(255, 255, 255, 1);
-font-size: 1.4em;
-line-height: 1.7em;
 }
 
 span.bold {
