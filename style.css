@@ -547,7 +547,7 @@ right:0;
   margin-right: 20%;
   }
 
-  footer {
+  .footer-container {
   background-image: none;
   }
 
@@ -592,6 +592,8 @@ font-size:1em;
 }
 
 .text {
+margin: 0 auto;
+width: 90%;
 font-size:1.25em;
 padding-top: 2%;
 }
