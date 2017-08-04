@@ -460,7 +460,7 @@ background-color: black;
 background-image: url(img/footer-logo.png);
 background-repeat: no-repeat;
 background-size: 12%;
-background-position: 97% top;
+background-position: 97% 8px;
 }
 
 .footer-bottom {
@@ -531,6 +531,10 @@ right:0;
 
   .left-aligned {
   font-size: 1em;
+  }
+
+  footer {
+  background-image: none;
   }
 
 }
