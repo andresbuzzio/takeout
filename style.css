@@ -560,6 +560,11 @@ right:0;
 
 @media (max-width: 480px) {
 
+nav {
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
 .the-hands-off {
 font-size:1em;
 }
