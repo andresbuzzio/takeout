@@ -556,8 +556,12 @@ right:0;
   zoom:70%;
   }
 
-  .the-hands-off {
-  font-size:1em;
-  }
+}
+
+@media (max-width: 480px) {
+
+.the-hands-off {
+font-size:1em;
+}
 
 }
