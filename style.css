@@ -114,8 +114,7 @@ padding: 5%;
 .text2 {
 font-family: 'Montserrat', sans-serif;
 font-weight: 300;
-margin-left: 15%;
-margin-right: 15%;
+margin:0 auto;
 width: 70%;
 overflow: hidden;
 color: #fff;
