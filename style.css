@@ -66,6 +66,14 @@ color:#fff;
 text-align: left;
 }
 
+p.small {
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+font-size: 1em;
+color:#fff;
+text-align: left;
+}
+
 nav {
 zoom:80%;
 float: right;
@@ -611,6 +619,10 @@ background-size: contain;
 
   .wrapper.social {
   zoom:70%;
+  }
+
+  .margin-mobile {
+  margin-top:30px;
   }
 
 }
