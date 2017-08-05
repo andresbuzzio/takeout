@@ -66,11 +66,16 @@ color:#fff;
 text-align: left;
 }
 
+p {
+color:#fff!important;
+}
+
 p.small {
+margin-top: 5px;
 font-family: 'Montserrat', sans-serif;
 font-weight: 300;
 font-size: 1em;
-color:#fff;
+color:#fff !important;
 text-align: left;
 }
 
