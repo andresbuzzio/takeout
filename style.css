@@ -50,12 +50,20 @@ line-height: 1.5em;
 }
 
 a {
-color: #fff;
+color: #fff !important;
 cursor: pointer;
 }
 
 a:hover {
-color:#000;
+color:#000 !important;
+}
+
+p.about {
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+font-size: 1.25em;
+color:#fff;
+text-align: left;
 }
 
 nav {
@@ -88,6 +96,11 @@ nav ul li:hover {
 float: left;
 color: #fff;
 background: #000;
+}
+
+.margin-top {
+margin-top: 3em;
+margin-bottom: 3em;
 }
 
 .text-container {
@@ -480,6 +493,11 @@ width:100%;
 overflow: hidden;
 }
 
+.footer-about {
+width:100%;
+overflow: hidden;
+}
+
 .footer-container {
 padding: 30px 0;
 width:100%;
@@ -603,7 +621,7 @@ padding-top: 2%;
 @media (max-width: 1280px) {
 
 .text {
-font-size:.75em;
+font-size:1.25em;
 padding-top: 2%;
 }
 
