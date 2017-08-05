@@ -576,12 +576,6 @@ background-size: contain;
   width:250vw;
   }
 
-  .text {
-  margin-left: 10%;
-  margin-right: 10%;
-  width: 80%;
-  }
-
   .sub-title {
   width: 90%;
   }
@@ -638,13 +632,6 @@ margin-bottom: 1em;
 
 .the-hands-off {
 font-size:1em;
-}
-
-.text {
-margin: 0 auto;
-width: 90%;
-font-size:1.25em;
-padding-top: 2%;
 }
 
 .margin-mobile {
