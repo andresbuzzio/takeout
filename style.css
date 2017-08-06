@@ -58,9 +58,10 @@ color:#000 !important;
 p.about {
 font-family: 'Montserrat', sans-serif;
 font-weight: 300;
-font-size: 1.15em;
+font-size: 1.1em;
 color:#fff;
 text-align: left;
+padding-right: 20px;
 }
 
 p {
@@ -555,6 +556,84 @@ height: 240px;
 background-image: url(img/judith.png);
 background-repeat: no-repeat;
 background-size: contain;
+}
+
+/* HELPLINES */
+
+.container-white {
+width: 100%;
+overflow: hidden;
+background: #fff;
+}
+
+.helplines1 {
+width:100%;
+height:100px;
+background-image: url(img/helplines1.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+margin-top: 20px;
+}
+
+.helplines2 {
+width:100%;
+height:100px;
+background-image: url(img/helplines2.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+margin:20px 0;
+}
+
+.helplines3 {
+width:100%;
+height:100px;
+background-image: url(img/helplines3.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+margin:20px 0;
+}
+
+.helplines4 {
+width:100%;
+height:100px;
+background-image: url(img/helplines4.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+margin:20px 0;
+}
+
+.helplines5 {
+width:100%;
+height:100px;
+background-image: url(img/helplines5.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+margin:20px 0;
+}
+
+.helplines6 {
+width:100%;
+height:100px;
+background-image: url(img/helplines6.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+margin:20px 0;
+}
+
+.helplines7 {
+width:100%;
+height:100px;
+background-image: url(img/helplines7.png);
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center center;
+margin:20px 0;
 }
 
 /* MOBILE */
