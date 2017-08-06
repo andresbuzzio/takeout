@@ -659,6 +659,10 @@ text-align: center;
 margin: 10px 0;
 }
 
+.charities {
+margin: 60px 0;
+}
+
 /* MOBILE */
 
 @media (max-width: 960px) {
